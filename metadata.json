@@ -1,0 +1,6 @@
+{
+  "name": "Meus Sites - Hub Pessoal de Sites",
+  "description": "Seu hub pessoal de sites e favoritos em um único aplicativo PWA. Acesse todos os seus sites favoritos com rapidez e facilidade em qualquer dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
